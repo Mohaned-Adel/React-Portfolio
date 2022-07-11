@@ -40,7 +40,7 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>mohaned.adel1996@gmail.com</h5>
-            <a href="mailto:mohaned.adel1996@gmail.com" target="_blank">
+            <a href="mailto:mohaned.adel1996@gmail.com" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -48,7 +48,7 @@ const Contact = () => {
             <BsMessenger className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Mohaned Adel</h5>
-            <a href="https://m.me/mohaned.adel.98" target="_blank">
+            <a href="https://m.me/mohaned.adel.98" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -58,7 +58,7 @@ const Contact = () => {
             <h5>+201204155977</h5>
             <a
               href="https://api.whatsapp.com/send?phone=201204155977"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Send a message
             </a>
