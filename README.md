@@ -16,8 +16,6 @@ This is another personal project from my series **Slicing React PSDs into respon
 
 It was practising on (React and JavaScript).
 
-This project contains two pages (Home and Contact) pages, Build by using React Router
-
 ## Download
 
 1. Clone Project:
